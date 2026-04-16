@@ -9,6 +9,7 @@
     "estadio": "Arena TDR",
     "fundacao": "2022",
     "historia": "O TDR United é o clube pioneiro da liga, focado em alta performance e táticas avançadas."
+    "wage": "R$ 4.200"
   },
   {
     "id": 2,
@@ -20,5 +21,6 @@
     "estadio": "Ninho da Fênix",
     "fundacao": "2023",
     "historia": "Conhecido pela sua base forte e reviravoltas históricas em campeonatos."
+    "wage": "R$ 4.200"
   }
 ]
