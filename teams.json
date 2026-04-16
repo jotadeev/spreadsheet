@@ -1,50 +1,24 @@
 [
   {
-    "nome": "São Paulo FC",
-    "sigla": "SPFC",
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/4/4b/S%C3%A3o_Paulo_Futebol_Clube.png",
-    "titulos": 3,
-    "fundacao": "1930",
-    "status": "Elite"
-  },
-  {
-    "nome": "Corinthians",
-    "sigla": "SCCP",
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
+    "id": 1,
+    "nome": "TDR United",
+    "sigla": "TDR",
+    "logo": "https://via.placeholder.com/150",
     "titulos": 5,
-    "fundacao": "1910",
-    "status": "Elite"
+    "tecnico": "Carlos Silva",
+    "estadio": "Arena TDR",
+    "fundacao": "2022",
+    "historia": "O TDR United é o clube pioneiro da liga, focado em alta performance e táticas avançadas."
   },
   {
-    "nome": "Santos FC",
-    "sigla": "SFC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santos_logo.png",
+    "id": 2,
+    "nome": "Fênix FC",
+    "sigla": "FNX",
+    "logo": "https://via.placeholder.com/150",
     "titulos": 2,
-    "fundacao": "1912",
-    "status": "Pro"
-  },
-  {
-    "nome": "Palmeiras",
-    "sigla": "SEP",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg",
-    "titulos": 4,
-    "fundacao": "1914",
-    "status": "Elite"
-  },
-  {
-    "nome": "Flamengo",
-    "sigla": "CRF",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_v_logo.svg",
-    "titulos": 6,
-    "fundacao": "1895",
-    "status": "Elite"
-  },
-  {
-    "nome": "Grêmio",
-    "sigla": "FBPA",
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d3/Gr%C3%AAmio_FBPA.png",
-    "titulos": 1,
-    "fundacao": "1903",
-    "status": "Pro"
+    "tecnico": "Ana Souza",
+    "estadio": "Ninho da Fênix",
+    "fundacao": "2023",
+    "historia": "Conhecido pela sua base forte e reviravoltas históricas em campeonatos."
   }
 ]
