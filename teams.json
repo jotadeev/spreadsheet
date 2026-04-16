@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "status": "LIVE", 
+    "campeonato": "Champions TDR - Rodada 1",
+    "data": "16/04/2026",
+    "horario": "20:00",
+    "home_team": {
+      "nome": "São Paulo FC",
+      "sigla": "SPFC",
+      "logo": "https://sua-url.com/logos/spfc.png",
+      "gols": 2
+    },
+    "away_team": {
+      "nome": "Corinthians",
+      "sigla": "SCCP",
+      "logo": "https://sua-url.com/logos/corinthians.png",
+      "gols": 1
+    },
+    "estatisticas": {
+      "estadio": "Morumbis",
+      "mvp": "jvttatsu",
+      "destaques": ["jvttatsu (2G)", "Pedro (1G)"]
+    }
+  },
+  {
+    "id": 2,
+    "status": "SCHEDULED",
+    "campeonato": "Copa TDR - Quartas",
+    "data": "18/04/2026",
+    "horario": "21:30",
+    "home_team": {
+      "nome": "Flamengo",
+      "sigla": "FLA",
+      "logo": "https://sua-url.com/logos/fla.png",
+      "gols": 0
+    },
+    "away_team": {
+      "nome": "Palmeiras",
+      "sigla": "SEP",
+      "logo": "https://sua-url.com/logos/pal.png",
+      "gols": 0
+    },
+    "estatisticas": {
+      "estadio": "Maracanã",
+      "mvp": "---",
+      "destaques": []
+    }
+  },
+  {
+    "id": 3,
+    "status": "FINISHED",
+    "campeonato": "Amistoso Elite",
+    "data": "15/04/2026",
+    "horario": "19:00",
+    "home_team": {
+      "nome": "Santos FC",
+      "sigla": "SFC",
+      "logo": "https://sua-url.com/logos/sfc.png",
+      "gols": 0
+    },
+    "away_team": {
+      "nome": "Vasco da Gama",
+      "sigla": "CRVG",
+      "logo": "https://sua-url.com/logos/vasco.png",
+      "gols": 3
+    },
+    "estatisticas": {
+      "estadio": "Vila Belmiro",
+      "mvp": "RobloxScout_01",
+      "destaques": ["Lucas (2G)", "Marcos (1G)"]
+    }
+  }
+]
