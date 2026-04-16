@@ -1,5 +1,5 @@
 [
-  { "name": "jvttatsu", "team": "TDR United", "tier": "X", "wage": "R$ 15.000" },
-  { "name": "mvster7y", "team": "Fênix FC", "tier": "S", "wage": "R$ 8.500" },
-  { "name": "raphaz_4", "team": "TDR United", "tier": "A", "wage": "R$ 4.200" }
+  { "name": "jvttatsu", "team": "TDR United", "tier": "X", "wage" },
+  { "name": "mvster7y", "team": "Fênix FC", "tier": "S" },
+  { "name": "raphaz_4", "team": "TDR United", "tier": "A" }
 ]
