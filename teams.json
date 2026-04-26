@@ -8,7 +8,7 @@
     "tecnico": "@Scorchhill2004 & @r4ckzera",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Rubro-Negro entra na Season 1 com foco em ofensividade total e domínio de posse.",
+    "historia": "O Rubro-Negro entra na Season 1 com foco em ofensividade total e domínio de posse de bola.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -20,7 +20,7 @@
     "tecnico": "@resvrgidoo & @Testierger089",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "A Academia de Futebol aposta no entrosamento tático para manter a consistência.",
+    "historia": "A Academia de Futebol aposta no entrosamento tático para manter a consistência e buscar o topo.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -32,7 +32,7 @@
     "tecnico": "@breadfreezebyte",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Timão vem com uma proposta de jogo resiliente e contra-ataques rápidos.",
+    "historia": "O Timão vem com uma proposta de jogo resiliente, focada em contra-ataques rápidos e precisão.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -44,7 +44,7 @@
     "tecnico": "@T4_BRABIN",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Tricolor foca na técnica refinada e na organização defensiva.",
+    "historia": "O Tricolor Paulista foca na técnica refinada e na organização defensiva para ditar o ritmo da liga.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -56,7 +56,7 @@
     "tecnico": "@mvsterhighsky & @spvcecatchingfire",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Gigante da Colina traz uma mentalidade de superação para esta temporada.",
+    "historia": "O Gigante da Colina traz uma mentalidade de superação e força coletiva para esta primeira temporada.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -68,7 +68,7 @@
     "tecnico": "@rgxerriozx & @usuário-desconhecido",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Imortal foca na tradição e na garra para se tornar imbatível em casa.",
+    "historia": "O Imortal foca na tradição e na garra característica para se tornar o pesadelo dos visitantes.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -80,7 +80,7 @@
     "tecnico": "@vanb4sten",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Colorado prioriza a pressão alta e um futebol dinâmico.",
+    "historia": "O Colorado prioriza a pressão alta e um futebol dinâmico para conquistar a liderança da liga.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -92,7 +92,31 @@
     "tecnico": "@kaaIunn",
     "divisao": "Série A",
     "fundacao": "2026",
-    "historia": "O Peixe aposta na ousadia e na velocidade de seus pontas.",
+    "historia": "O Peixe aposta na ousadia e na velocidade de seus pontas para surpreender os adversários.",
+    "wage": "R$ INDEFINIDO"
+  },
+  {
+    "id": 9,
+    "nome": "Atlético Mineiro",
+    "sigla": "CAM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Atletico_mineiro_logo.svg/240px-Atletico_mineiro_logo.svg.png",
+    "titulos": 0,
+    "tecnico": "N/A",
+    "divisao": "Série B",
+    "fundacao": "2026",
+    "historia": "O Galo busca um comando técnico à altura de seu elenco para buscar o acesso rápido à elite.",
+    "wage": "R$ INDEFINIDO"
+  },
+  {
+    "id": 10,
+    "nome": "Ceará",
+    "sigla": "CEA",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/78/Cear%C3%A1_Sporting_Club_logo.png/240px-Cear%C3%A1_Sporting_Club_logo.png",
+    "titulos": 0,
+    "tecnico": "@! & @4mvrry",
+    "divisao": "Série B",
+    "fundacao": "2026",
+    "historia": "O Vozão entra na Série B com força máxima, apostando no fator casa para dominar a tabela.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -104,7 +128,55 @@
     "tecnico": "@breno_blox9191919191",
     "divisao": "Série B",
     "fundacao": "2026",
-    "historia": "O Leão foca em uma defesa sólida para subir de divisão.",
+    "historia": "O Leão foca em uma defesa sólida e eficiência nas bolas paradas para subir de divisão.",
+    "wage": "R$ INDEFINIDO"
+  },
+  {
+    "id": 12,
+    "nome": "Goiás",
+    "sigla": "GOI",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Goi%C3%A1s_Esporte_Clube_logo.svg/240px-Goi%C3%A1s_Esporte_Clube_logo.svg.png",
+    "titulos": 0,
+    "tecnico": "@Ray23206",
+    "divisao": "Série B",
+    "fundacao": "2026",
+    "historia": "O Esmeraldino busca o equilíbrio entre jovens promessas e estratégia veterana para o acesso.",
+    "wage": "R$ INDEFINIDO"
+  },
+  {
+    "id": 13,
+    "nome": "Avaí",
+    "sigla": "AVA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ava%C3%AD_Futebol_Clube_logo.svg/240px-Ava%C3%AD_Futebol_Clube_logo.svg.png",
+    "titulos": 0,
+    "tecnico": "@Migfxnix",
+    "divisao": "Série B",
+    "fundacao": "2026",
+    "historia": "O Leão da Ilha foca em um esquema tático compacto, dificultando a vida de qualquer rival.",
+    "wage": "R$ INDEFINIDO"
+  },
+  {
+    "id": 14,
+    "nome": "Chapecoense",
+    "sigla": "CHA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.svg/240px-Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.svg.png",
+    "titulos": 0,
+    "tecnico": "@nisrei020",
+    "divisao": "Série B",
+    "fundacao": "2026",
+    "historia": "A Chape entra na Season 1 com o objetivo de reconstruir sua história de glórias.",
+    "wage": "R$ INDEFINIDO"
+  },
+  {
+    "id": 15,
+    "nome": "CRB",
+    "sigla": "CRB",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/CRB_Clube_de_Regatas_Brasil.png/240px-CRB_Clube_de_Regatas_Brasil.png",
+    "titulos": 0,
+    "tecnico": "@Iuxffyy",
+    "divisao": "Série B",
+    "fundacao": "2026",
+    "historia": "O Regatas aposta em um jogo de muita intensidade física e marcação por pressão constante.",
     "wage": "R$ INDEFINIDO"
   },
   {
@@ -116,7 +188,7 @@
     "tecnico": "@ythiago_vampiroYT & @gearsnfs",
     "divisao": "Série B",
     "fundacao": "2026",
-    "historia": "O Esquadrão utiliza análise de dados para dominar a Série B.",
+    "historia": "O Esquadrão chega com investimento em análise tática para ser o time mais inteligente da Série B.",
     "wage": "R$ INDEFINIDO"
   }
 ]
